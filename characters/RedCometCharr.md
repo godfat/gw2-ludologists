@@ -4,17 +4,17 @@
 
 喔，可是我什麼在看鋼彈作品 (逃)
 
-## Owner: Johnson Lin.1687
-
-## Server: Jade Quarry
-
 ## Class: Charr Warrior Lv80
 
 ## Traits:
-Power 30
-Toughness 10
-Vitality 30
+
+* Power 30
+* Toughness 10
+* Vitality 30
 
 ## Crafting:
-Armorsmith 400
-Weaponsmith 400
+
+* Armorsmith 400
+* Weaponsmith 400
+
+## Owner: Johnson Lin.1687 @ Jade Quarry
