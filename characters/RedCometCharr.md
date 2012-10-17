@@ -1,8 +1,8 @@
 # Red Comet Charr
 
-�W�r��¬O�ӿ��u���L�A�]���ڱq GW1 �N���N�ܷQ�o�˴c�d�A�Q����� GW2 �~�M�����|�F�A�ӥB�ٯu�������H�{�X�ӳo�Ӯ��L XDDDD 
+名字單純是個鋼彈捏他，因為我從 GW1 代其實就很想這樣惡搞，想不到到 GW2 居然有機會了，而且還真的有路人認出來這個捏他 XDDDD
 
-��A�i�O�ڤ���b�ݿ��u�@�~ (�k) 
+喔，可是我什麼在看鋼彈作品 (逃)
 
 ## Owner: Johnson Lin.1687
 
