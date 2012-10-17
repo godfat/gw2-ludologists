@@ -42,5 +42,4 @@
 
 ## Armors:
 
-## Owner: godfat.2604
-## Server: Sorrow's Furnace
+## Owner: godfat.2604 @ Sorrow's Furnace
