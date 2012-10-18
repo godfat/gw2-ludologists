@@ -1,7 +1,7 @@
-# Piggy Fire
+# E T Sitter
 
-依據死黨的形象設計的角色，因為死黨常常噴火，所以就叫做 Piggy Fire XD
+為了配合天殘 ET 玩而開的角色，名字被強迫叫 ET 保姆 >"<
 
-## Class: Female Human Elementalist
+## Class: Female Human Warrior
 
-## Owner: ETBlue.1963 @ Henge of Denravi, Sorrow's Furnace
+## Owner: Fiona.3812 @ Henge of Denravi, Sorrow's Furnace
