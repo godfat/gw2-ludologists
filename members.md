@@ -5,3 +5,4 @@
 * Fiona.3812 @ Henge of Denravi, Sorrow's Furnace
 * godfat.2604 @ Sorrow's Furnace
 * Johnson Lin.1687 @ Jade Quarry
+* Poga.3704 @ Sanctum of Rall
