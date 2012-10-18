@@ -1,6 +1,6 @@
 # Monadicat
 
-## Class: Human Ranger
+## Class: Female Human Ranger
 
 ## Traits:
 
