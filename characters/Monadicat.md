@@ -87,8 +87,8 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ### Slot Skills (underwater):
 
-* _Troll Unguent_
-* _Signet of Renewal_
+* __Troll Unguent__
+* __Signet of Renewal__
 * Signet of the Hunt (as in Explore Build)
 * Quickening Zephyr (as in Explore Build)
 * Rampage As One (as in Explore Build)
@@ -110,7 +110,7 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 ### Slot Skills:
 
 * Healing Spring (as in Explore Build)
-* _Signet of Renewal_
+* __Signet of Renewal__
 * Signet of the Hunt (as in Explore Build)
 * Quickening Zephyr (as in Explore Build)
 * Rampage As One (as in Explore Build)
@@ -121,16 +121,16 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 * Healing Spring (as in Explore Build)
 * Flame Trap (as in Explore Build)
-* _Spike Trap_
-* _Frost Trap_
+* __Spike Trap__
+* __Frost Trap__
 * Rampage As One (as in Explore Build)
 
 ### Major Traits:
 
 * Skirmishing
     - Adept: Pet's Prowess (as in Explore Build)
-    - _Master: Trapper's Expertise_
-    - _Grandmaster: Trap Potency_
+    - __Master: Trapper's Expertise__
+    - __Grandmaster: Trap Potency__
 * Nature Magic
     - Adept: Nature's Protection (as in Explore Build)
 * Beastmastery
