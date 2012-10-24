@@ -55,18 +55,6 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ## Explore Build:
 
-### Major Traits:
-
-* Skirmishing
-    - Adept: Pet's Prowess
-    - Adept: Companion's Might
-    - Master: Carnivorous Appetite
-* Nature Magic
-    - Adept: Nature's Protection
-* Beastmastery
-    - Adept: Speed Training
-    - Adept: Commanding Voice
-
 ### Weapon Set A:
 
 * Shortbow
@@ -105,6 +93,18 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 * Quickening Zephyr (as in Explore Build)
 * Rampage As One (as in Explore Build)
 
+### Major Traits:
+
+* Skirmishing
+    - Adept: Pet's Prowess
+    - Adept: Companion's Might
+    - Master: Carnivorous Appetite
+* Nature Magic
+    - Adept: Nature's Protection
+* Beastmastery
+    - Adept: Speed Training
+    - Adept: Commanding Voice
+
 ## WvW Build:
 
 ### Slot Skills:
@@ -117,6 +117,14 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ## Trapper Build:
 
+### Slot Skills:
+
+* Healing Spring (as in Explore Build)
+* Flame Trap (as in Explore Build)
+* Spike Trap
+* Frost Trap
+* Rampage As One (as in Explore Build)
+
 ### Major Traits:
 
 * Skirmishing
@@ -128,11 +136,3 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 * Beastmastery
     - Adept: Speed Training (as in Explore Build)
     - Adept: Commanding Voice (as in Explore Build)
-
-### Slot Skills:
-
-* Healing Spring (as in Explore Build)
-* Flame Trap (as in Explore Build)
-* Spike Trap
-* Frost Trap
-* Rampage As One (as in Explore Build)
