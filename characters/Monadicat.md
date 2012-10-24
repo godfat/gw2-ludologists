@@ -89,9 +89,9 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 * __Troll Unguent__
 * __Signet of Renewal__
-* Signet of the Hunt (as in Explore Build)
-* Quickening Zephyr (as in Explore Build)
-* Rampage As One (as in Explore Build)
+* Signet of the Hunt
+* Quickening Zephyr
+* Rampage As One
 
 ### Major Traits:
 
@@ -109,30 +109,30 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ### Slot Skills:
 
-* Healing Spring (as in Explore Build)
+* Healing Spring
 * __Signet of Renewal__
-* Signet of the Hunt (as in Explore Build)
-* Quickening Zephyr (as in Explore Build)
-* Rampage As One (as in Explore Build)
+* Signet of the Hunt
+* Quickening Zephyr
+* Rampage As One
 
 ## Trapper Build:
 
 ### Slot Skills:
 
-* Healing Spring (as in Explore Build)
-* Flame Trap (as in Explore Build)
+* Healing Spring
+* Flame Trap
 * __Spike Trap__
 * __Frost Trap__
-* Rampage As One (as in Explore Build)
+* Rampage As One
 
 ### Major Traits:
 
 * Skirmishing
-    - Adept: Pet's Prowess (as in Explore Build)
+    - Adept: Pet's Prowess
     - __Master: Trapper's Expertise__
     - __Grandmaster: Trap Potency__
 * Nature Magic
-    - Adept: Nature's Protection (as in Explore Build)
+    - Adept: Nature's Protection
 * Beastmastery
-    - Adept: Speed Training (as in Explore Build)
-    - Adept: Commanding Voice (as in Explore Build)
+    - Adept: Speed Training
+    - Adept: Commanding Voice
