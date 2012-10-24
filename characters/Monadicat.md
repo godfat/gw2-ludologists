@@ -9,19 +9,58 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 自己的世界去了。這是遊俠的使命，是吧？
 
 ## Class: Female Human Ranger
-
-## Traits:
-
-* Marksmanship (Power, Condition Duration)
-* Beastmastery (Pet, Healing Power)
-* Skirmishing (Precision, Critical Damage)
+## Owner: godfat.2604 @ Sorrow's Furnace
 
 ## Crafting:
 
 * Jeweler
 * Letherworker
 
-## Usual Skill Sets:
+## Armors:
+
+* Rampager's Set
+  - Precision
+  - Condition Damage
+  - Power
+* Superior Rune of the Pirate
+  - (1): +10% Magic Find
+  - (2): +20% Might Duration
+  - (3): +15% Magic Find
+  - (4): 5% chance to shout Yarr and grant Might to nearby allies when hit.
+    (Cooldown: 10s)
+  - (5): +25% Magic Find
+  - (6): +5% chance to summon a Parrot. (Cooldown: 60s)
+
+## Traits:
+
+* Skirmishing 30 (Precision, Critical Damage)
+  - Tail Wind
+  - Furious Grip
+  - Hunter's Tactics
+* Wilderness Survival 5 (Toughness, Condition Damage)
+  - Natural Vigor
+* Nature Magic 15 (Vitality, Boon Duration)
+  - Rejuvenation
+  - Fortifying Bond
+* Beastmastery 20 (Healing Power, Pet Attributes)
+  - Zephyr's Speed
+  - Loud Whistle
+
+## Explore Build:
+
+### Major Traits:
+
+* Skirmishing
+  - Adept: Pet's Prowess
+  - Adept: Companion's Might
+  - Master: Carnivorous Appetite
+* Nature Magic
+  - Adept: Nature's Protection
+* Beastmastery
+  - Adept: Speed Training
+  - Adept: Commanding Voice
+
+### Weapon Set A:
 
 * Shortbow
   - Crossfire
@@ -29,13 +68,8 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
   - Quick Shot
   - Crippling Shot
   - Concussion Shot
-* Healing Spring
-* Signet of the Hunt
-* Signet of the Wild
-* Quickening Zephyr
-* Rampage As One
 
-## Usual Alternative Weapon:
+### Weapon Set B:
 
 * Sword
   - Slash
@@ -48,6 +82,50 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
   - Hunter's Call
   - Call of the Wild
 
-## Armors:
+### Slot Skills:
 
-## Owner: godfat.2604 @ Sorrow's Furnace
+* Healing Spring
+* Flame Trap
+* Signet of the Hunt
+* Quickening Zephyr
+* Rampage As One
+
+### Slot Skills (underwater):
+
+* Troll Unguent
+* Signet of Renewal
+* Signet of the Hunt
+* Quickening Zephyr
+* Rampage As One
+
+## WvW Build:
+
+### Slot Skills:
+
+* Healing Spring
+* Signet of Renewal
+* Signet of the Hunt
+* Quickening Zephyr
+* Rampage As One
+
+## Trapper Build:
+
+### Major Traits:
+
+* Skirmishing
+  - Adept: Pet's Prowess (as in Explore Build)
+  - Master: Trapper's Expertise
+  - Grandmaster: Trap Potency
+* Nature Magic
+  - Adept: Nature's Protection (as in Explore Build)
+* Beastmastery
+  - Adept: Speed Training (as in Explore Build)
+  - Adept: Commanding Voice (as in Explore Build)
+
+### Slot Skills:
+
+* Healing Spring
+* Flame Trap
+* Spike Trap
+* Frost Trap
+* Rampage As One
