@@ -19,68 +19,68 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 ## Armors:
 
 * Rampager's Set
-  - Precision
-  - Condition Damage
-  - Power
+    - Precision
+    - Condition Damage
+    - Power
 * Superior Rune of the Pirate
-  - (1): +10% Magic Find
-  - (2): +20% Might Duration
-  - (3): +15% Magic Find
-  - (4): 5% chance to shout Yarr and grant Might to nearby allies when hit.
-    (Cooldown: 10s)
-  - (5): +25% Magic Find
-  - (6): +5% chance to summon a Parrot. (Cooldown: 60s)
+    - (1): +10% Magic Find
+    - (2): +20% Might Duration
+    - (3): +15% Magic Find
+    - (4): 5% chance to shout Yarr and grant Might to nearby allies when hit.
+      (Cooldown: 10s)
+    - (5): +25% Magic Find
+    - (6): +5% chance to summon a Parrot. (Cooldown: 60s)
 
 ## Traits:
 
 * Skirmishing 30 (Precision, Critical Damage)
-  - Tail Wind
-  - Furious Grip
-  - Hunter's Tactics
+    - Tail Wind
+    - Furious Grip
+    - Hunter's Tactics
 * Wilderness Survival 5 (Toughness, Condition Damage)
-  - Natural Vigor
+    - Natural Vigor
 * Nature Magic 15 (Vitality, Boon Duration)
-  - Rejuvenation
-  - Fortifying Bond
+    - Rejuvenation
+    - Fortifying Bond
 * Beastmastery 20 (Healing Power, Pet Attributes)
-  - Zephyr's Speed
-  - Loud Whistle
+    - Zephyr's Speed
+    - Loud Whistle
 
 ## Explore Build:
 
 ### Major Traits:
 
 * Skirmishing
-  - Adept: Pet's Prowess
-  - Adept: Companion's Might
-  - Master: Carnivorous Appetite
+    - Adept: Pet's Prowess
+    - Adept: Companion's Might
+    - Master: Carnivorous Appetite
 * Nature Magic
-  - Adept: Nature's Protection
+    - Adept: Nature's Protection
 * Beastmastery
-  - Adept: Speed Training
-  - Adept: Commanding Voice
+    - Adept: Speed Training
+    - Adept: Commanding Voice
 
 ### Weapon Set A:
 
 * Shortbow
-  - Crossfire
-  - Poison Volley
-  - Quick Shot
-  - Crippling Shot
-  - Concussion Shot
+   - Crossfire
+   - Poison Volley
+   - Quick Shot
+   - Crippling Shot
+   - Concussion Shot
 
 ### Weapon Set B:
 
 * Sword
-  - Slash
-    * Kick
-    * Pounce
-  - Hornet Sting
-    * Monarch's Leap
-  - Serpent's Strike
+    - Slash
+        - Kick
+        - Pounce
+    - Hornet Sting
+        - Monarch's Leap
+    - Serpent's Strike
 * Warnhorn
-  - Hunter's Call
-  - Call of the Wild
+    - Hunter's Call
+    - Call of the Wild
 
 ### Slot Skills:
 
@@ -113,14 +113,14 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 ### Major Traits:
 
 * Skirmishing
-  - Adept: Pet's Prowess (as in Explore Build)
-  - Master: Trapper's Expertise
-  - Grandmaster: Trap Potency
+    - Adept: Pet's Prowess (as in Explore Build)
+    - Master: Trapper's Expertise
+    - Grandmaster: Trap Potency
 * Nature Magic
-  - Adept: Nature's Protection (as in Explore Build)
+    - Adept: Nature's Protection (as in Explore Build)
 * Beastmastery
-  - Adept: Speed Training (as in Explore Build)
-  - Adept: Commanding Voice (as in Explore Build)
+    - Adept: Speed Training (as in Explore Build)
+    - Adept: Commanding Voice (as in Explore Build)
 
 ### Slot Skills:
 
