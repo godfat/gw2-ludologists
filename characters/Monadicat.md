@@ -94,19 +94,19 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 * Troll Unguent
 * Signet of Renewal
-* Signet of the Hunt
-* Quickening Zephyr
-* Rampage As One
+* Signet of the Hunt (as in Explore Build)
+* Quickening Zephyr (as in Explore Build)
+* Rampage As One (as in Explore Build)
 
 ## WvW Build:
 
 ### Slot Skills:
 
-* Healing Spring
+* Healing Spring (as in Explore Build)
 * Signet of Renewal
-* Signet of the Hunt
-* Quickening Zephyr
-* Rampage As One
+* Signet of the Hunt (as in Explore Build)
+* Quickening Zephyr (as in Explore Build)
+* Rampage As One (as in Explore Build)
 
 ## Trapper Build:
 
@@ -124,8 +124,8 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ### Slot Skills:
 
-* Healing Spring
-* Flame Trap
+* Healing Spring (as in Explore Build)
+* Flame Trap (as in Explore Build)
 * Spike Trap
 * Frost Trap
-* Rampage As One
+* Rampage As One (as in Explore Build)
