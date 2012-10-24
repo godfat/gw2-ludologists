@@ -46,6 +46,13 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
     - Zephyr's Speed
     - Loud Whistle
 
+## Pets:
+
+* Jungle Stalker -
+* Owl - Song of Final Exile
+* Shark -
+* Blue Jellyfish -
+
 ## Explore Build:
 
 ### Major Traits:
