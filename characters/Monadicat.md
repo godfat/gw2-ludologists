@@ -33,16 +33,16 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ## Traits:
 
-* Skirmishing 30 (Precision, Critical Damage)
+* 30 Skirmishing (Precision, Critical Damage)
     - Tail Wind
     - Furious Grip
     - Hunter's Tactics
-* Wilderness Survival 5 (Toughness, Condition Damage)
+* 5 Wilderness Survival (Toughness, Condition Damage)
     - Natural Vigor
-* Nature Magic 15 (Vitality, Boon Duration)
+* 15 Nature Magic (Vitality, Boon Duration)
     - Rejuvenation
     - Fortifying Bond
-* Beastmastery 20 (Healing Power, Pet Attributes)
+* 20 Beastmastery (Healing Power, Pet Attributes)
     - Zephyr's Speed
     - Loud Whistle
 
