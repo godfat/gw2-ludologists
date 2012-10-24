@@ -73,10 +73,10 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 * Sword
   - Slash
-    - Kick
-    - Pounce
+    * Kick
+    * Pounce
   - Hornet Sting
-    - Monarch's Leap
+    * Monarch's Leap
   - Serpent's Strike
 * Warnhorn
   - Hunter's Call
