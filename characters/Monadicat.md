@@ -90,7 +90,7 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 * __Troll Unguent__
 * __Signet of Renewal__
 * Signet of the Hunt
-* Quickening Zephyr
+* __Signet of the Wild__
 * Rampage As One
 
 ### Major Traits:
