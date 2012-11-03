@@ -48,8 +48,8 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 
 ## Pets:
 
-* Jungle Stalker -
 * Owl - Song of Final Exile
+* Red Moa
 * Shark -
 * Blue Jellyfish -
 
