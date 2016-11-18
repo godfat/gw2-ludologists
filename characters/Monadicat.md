@@ -80,7 +80,7 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 ### Slot Skills:
 
 * Healing Spring
-* Flame Trap
+* Signet of the Wild
 * Signet of the Hunt
 * Quickening Zephyr
 * Rampage As One
@@ -88,9 +88,9 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 ### Slot Skills (underwater):
 
 * __Troll Unguent__
-* __Signet of Renewal__
+* Signet of the Wild
 * Signet of the Hunt
-* __Signet of the Wild__
+* __Signet of Renewal__
 * Rampage As One
 
 ### Major Traits:
@@ -104,16 +104,6 @@ Monadicat 曾經以為自己的姊妹 Deborah, 在加入 Falcon Company 後<br/>
 * Beastmastery
     - Adept: Speed Training
     - Adept: Commanding Voice
-
-## WvW Build:
-
-### Slot Skills:
-
-* Healing Spring
-* __Signet of Renewal__
-* Signet of the Hunt
-* Quickening Zephyr
-* Rampage As One
 
 ## Trapper Build:
 
