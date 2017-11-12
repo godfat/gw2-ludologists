@@ -1,12 +1,14 @@
-# dodge-jump.ahk
+# [AutoHotkey](https://autohotkey.com/) scripts for Guild Wars 2
+
+## dodge-jump.ahk
 
 Press <kbd>Shift</kbd> + <kbd>Space</kbd> to dodge jump.
 
-# auto-click.ahk
+## auto-click.ahk
 
 Press <kbd>F9</kbd> to toggle auto-click at current mouse position.
 
-#	mystic-forge.ahk
+##	mystic-forge.ahk
 
 Press <kbd>F10</kbd> exactly **5** times to record mouse positions
 of the 4 items you want to forge, and the position of the **forge button**.
