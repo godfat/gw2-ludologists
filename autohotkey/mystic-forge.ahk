@@ -8,6 +8,7 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 
 Toggle := false
 Items := []
+Times := 100
 
 F10::
   If Toggle
@@ -28,7 +29,7 @@ F11::
   Toggle := !Toggle
   N := 0
   outer:
-  While Toggle && N < 5 {
+  While Toggle && N < Times {
     For index, pos in Items {
       If Toggle = false
         Break outer
