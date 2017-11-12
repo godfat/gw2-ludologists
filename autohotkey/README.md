@@ -17,8 +17,7 @@ Press <kbd>F12</kbd> to reset it if you made a mistake, or if you want to
 forge the other 4 items.
 
 Press <kbd>F11</kbd> to start forging the 4 items you specified by
-<kbd>F10</kbd> for **100** times. Press <kbd>F11</kbd> again or <kbd>F12</kbd>
-any time to interrupt it.
+<kbd>F10</kbd> for **50** times. Press <kbd>F11</kbd> again any time
+to interrupt it.
 
-Press <kbd>F12</kbd> to reset the positions recorded by <kbd>F10</kbd>,
-and stop forging.
+Press <kbd>F12</kbd> to reset the positions recorded by <kbd>F10</kbd>.
