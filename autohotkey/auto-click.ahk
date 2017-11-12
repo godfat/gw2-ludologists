@@ -5,7 +5,8 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 
 #IfWinActive, ahk_class ArenaNet_Dx_Window_Class
 #MaxThreadsPerHotkey 2
-Toggle = 0
+
+Toggle := false
 
 F9::
   Toggle := !Toggle
