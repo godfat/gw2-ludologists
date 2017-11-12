@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 
 Toggle := false
 Items := []
-Times := 100
+Times := 50
 
 F10::
   If Toggle
