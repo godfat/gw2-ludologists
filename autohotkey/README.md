@@ -4,6 +4,11 @@
 
 Press <kbd>Shift</kbd> + <kbd>Space</kbd> to dodge jump.
 
+## capslock.ahk
+
+Press <kbd>CapsLock</kbd> to press <kbd>N</kbd> (default hotkey for special
+action)
+
 ## auto-click.ahk
 
 Press <kbd>F9</kbd> to toggle auto-click at current mouse position.
