@@ -6,5 +6,5 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 #IfWinActive Guild Wars 2
 
 Capslock::
-  Send {-}
+  Send {N}
 Return
